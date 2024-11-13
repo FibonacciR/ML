@@ -1,0 +1,8 @@
+pandas==1.5.3          # Data manipulation and analysis
+numpy==1.23.5          # Numerical computing
+matplotlib==3.7.1      # Data visualization (plots and charts)
+seaborn==0.12.2        # Data visualization (statistical plots)
+scikit-learn==1.2.2    # Machine learning models and preprocessing
+jupyterlab==3.6.3      # Jupyter Notebooks for interactive development
+statsmodels==0.13.2    # Statistical models and hypothesis testing
+
